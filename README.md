@@ -7,6 +7,7 @@
 ### Location: ART 122 (Will be changed to ASC 164 soon!)
 
 Date | Topic | Presenter | Resource/Slide
+--- | --- | --- | ---
 17/10/2019 | T1 | S1 | R
 24/10/2019 | T2 | S2 | R
 31/10/2019 | T3 | S3 | R
